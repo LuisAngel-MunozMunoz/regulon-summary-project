@@ -1,0 +1,32 @@
+TF	Total genes	Activados	Reprimidos	Tipo	Lista de genes
+AdiY	8	8	0	activador	adiA, gadA, gadB, gadC, gadX, gltB, gltD, gltF
+AppY	10	10	0	activador	appA, appB, appC, appX, hyaA, hyaB, hyaC, hyaD, hyaE, hyaF
+BaeR	9	9	0	activador	acrD, baeR, baeS, mdtA, mdtB, mdtC, mdtD, spy, ycaC
+CaiF	10	10	0	activador	caiA, caiB, caiC, caiD, caiE, caiT, fixA, fixB, fixC, fixX
+Cbl	9	9	0	activador	ssuA, ssuB, ssuC, ssuD, ssuE, tauA, tauB, tauC, tauD
+CdaR	10	10	0	activador	cdaR, garD, garK, garL, garP, garR, gudD, gudP, gudX, rnpB
+CusR	14	14	0	activador	cusA, cusB, cusC, cusF, cusR, cusS, cyoA, cyoB, cyoC, cyoD, cyoE, hiuH, msrP, msrQ
+DcuR	13	13	0	activador	aspA, aspX, dctA, dcuA, dcuB, dpiA, dpiB, frdA, frdB, frdC, frdD, fumB, pck
+EvgA	21	21	0	activador	G7121, acrD, emrK, emrY, evgA, evgL, evgS, frc, gadE, gadF, mdtE, mdtF, oxc, safA, ydeO, ydeP, yegR, yegZ, yfdE, yfdV, yfdX
+FhlA	30	30	0	activador	fdhF, fhlA, focB, hycA, hycB, hycC, hycD, hycE, hycF, hycG, hycH, hycI, hydN, hyfA, hyfB, hyfC, hyfD, hyfE, hyfF, hyfG, hyfH, hyfI, hyfJ, hyfR, hypA, hypB, hypC, hypD, hypE, hypF
+FimZ	5	5	0	activador	puuB, puuC, puuD, sfmA, sfmC
+FucR	7	7	0	activador	fucA, fucI, fucK, fucO, fucP, fucR, fucU
+GadE	34	34	0	activador	cyoA, cyoB, cyoC, cyoD, cyoE, fabZ, fliC, fliX, gadB, gadC, gadE, gadF, gadW, gadX, gltB, gltD, gltF, gnd, gndA, hdeA, hdeB, hdeD, lpxA, lpxD, lrp, mdtE, mdtF, purA, rcsA, skp, yhiD, yhiM, yjbQ, yjbR
+GadRcs	9	9	0	activador	adiC, aslB, cadA, cadB, dctR, gadA, gadX, slp, yhiM
+GlrR	6	6	0	activador	glmY, rpoE, rseA, rseB, rseC, rseD
+GutM	7	7	0	activador	gutM, gutQ, srlA, srlB, srlD, srlE, srlR
+HyfR	12	12	0	activador	focB, hyfA, hyfB, hyfC, hyfD, hyfE, hyfF, hyfG, hyfH, hyfI, hyfJ, hyfR
+LldR	8	8	0	activador	fadE, fadL, gadW, gadY, glcD, lpxP, yfdY, yhcO
+MalT	11	11	0	activador	lamB, malE, malF, malG, malH, malK, malM, malP, malQ, malS, malZ
+MhpR	6	6	0	activador	mhpA, mhpB, mhpC, mhpD, mhpE, mhpF
+MlrA	10	10	0	activador	cadC, csgD, csgE, csgF, csgG, ibaG, obgE, rplU, rpmA, yhbE
+MotR	12	12	0	activador	fliC, rplB, rplC, rplD, rplP, rplV, rplW, rpmC, rpsC, rpsJ, rpsQ, rpsS
+RcsB-BglJ	16	16	0	activador	bglB, bglF, bglG, leuO, sfsB, yecT, yehF, ygiZ, yidL, ykiA, ynbA, ynbB, ynbC, ynbD, ynjI, yqhG
+RhaS	6	6	0	activador	rhaA, rhaB, rhaD, rhaR, rhaS, rhaT
+SrsR	38	38	0	activador	adhE, bluR, cdgI, dhaK, dhaL, dhaM, dinJ, fucA, fucI, fucK, fucO, fucP, fucR, fucU, hycB, narZ, paaA, paaB, paaC, paaD, paaE, paaF, paaG, paaH, paaI, paaJ, paaK, paaZ, pflB, yafL, yafQ, yfdK, yfdL, yfdM, yfdN, yfdO, yfdP, yfdQ
+TdcA	7	7	0	activador	tdcA, tdcB, tdcC, tdcD, tdcE, tdcF, tdcG
+TdcR	7	7	0	activador	tdcA, tdcB, tdcC, tdcD, tdcE, tdcF, tdcG
+UvrY	6	6	0	activador	csrB, csrC, luxS, uhpT, uhpU, ydeP
+YdcI	5	5	0	activador	flu, gadB, iraP, isrC, smrB
+YhaJ	8	8	0	activador	bssS, ybiJ, ygiD, yhaJ, yhaK, yhaL, yhhW, yqjF
+YiaU	6	6	0	activador	adeP, gltD, waaP, yiaT, yiaV, yiaW
