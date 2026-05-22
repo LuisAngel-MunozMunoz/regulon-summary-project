@@ -35,15 +35,15 @@ def load_interactions(filename):
             if len(fields) <= 6:
                 continue
 
-            TF = fields[1]
-            gene = fields[4]
-            effect = fields[5]
+            TF = fields[1].strip()
+            gene = fields[4].strip()
+            effect = fields[5].strip()
+            print(effect)
 
             # Validar effect
-            if effect not in ["+", "-", "+-"]:
+            if effect not in ["+", "-", "+-","-+"]:
                 continue
 
             interactions.append((TF, gene, effect))
 
     return interactions
-
