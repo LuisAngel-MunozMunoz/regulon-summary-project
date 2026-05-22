@@ -1,4 +1,4 @@
-from core import get_regulator_type
+from .core import build_regulon, get_regulator_type
 def filter_by_min_genes(regulon, min_genes):
     """
     Filtra un regulón por número mínimo de genes regulados.

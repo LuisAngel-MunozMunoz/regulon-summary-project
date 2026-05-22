@@ -1,4 +1,4 @@
-from core import get_regulator_type
+from .core import get_regulator_type
 import os
 def write_summary(regulon, output_file):
     """Escribe el resumen del regulon a un archivo TSV.
